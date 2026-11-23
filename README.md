@@ -2,7 +2,6 @@
   <h1>ContextShield</h1>
   <p><strong>A zero-dependency AI gateway with semantic caching, injection guardrails, secret redaction, and latency telemetry.</strong></p>
   <p>Version 0.1.0 · nowii-core · Semantic Cache · Security Guardrails · HTTP/1.1 Gateway</p>
-  <p><a href="https://github.com/nowii-core/contextshield"><strong>View Repository on GitHub →</strong></a></p>
 </div>
 
 <p align="center">
